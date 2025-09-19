@@ -1,0 +1,8 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the service industry to optimize a customer's travel experience. For example, the ratings the customer gives out could be utilized to
+better recommend restaurants based on their preferences. The same could be said for hotels, entertainment, and many other things. Data science could also be used in the medicine.
+There are vast amounts of health data on patients with different conditions. This data could be analyzed to assess trends in health that could correspond to a given condition or
+illness. This is actually a field that I am very interested in since I want to go into medicine. I currently work in a cancer research lab and would love to use data analytics and
+science to comb through large amounts of biological data to see if there are any patterns going unnoticed. I hope that this class will prepare me to pursue a possible future career
+in this field.
