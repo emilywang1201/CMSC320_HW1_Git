@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is a tool that aids in code management and documentation. This is especially useful when working in team settings (many people making changes indepent of each other)
+or when working with complicated projects. Git's documentation means that parsing through code changes and reverting to old versions of code becomes much easier. Additionally, each
+team member can see exactly what and why a change was made by another member. Of course, there is always a caveat in that these changes must be committed to Git in order to view
+them and good documentation comments are needed for others to understand the logic behind the changes.
