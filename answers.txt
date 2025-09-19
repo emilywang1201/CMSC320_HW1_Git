@@ -4,3 +4,13 @@ Answer: Git is a tool that aids in code management and documentation. This is es
 or when working with complicated projects. Git's documentation means that parsing through code changes and reverting to old versions of code becomes much easier. Additionally, each
 team member can see exactly what and why a change was made by another member. Of course, there is always a caveat in that these changes must be committed to Git in order to view
 them and good documentation comments are needed for others to understand the logic behind the changes.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the service industry to optimize a customer's travel experience. For example, the ratings the customer gives out could be utilized to
+better recommend restaurants based on their preferences. The same could be said for hotels, entertainment, and many other things. Data science could also be used in the medicine.
+There are vast amounts of health data on patients with different conditions. This data could be analyzed to assess trends in health that could correspond to a given condition or
+illness. This is actually a field that I am very interested in since I want to go into medicine. I currently work in a cancer research lab and would love to use data analytics and
+science to comb through large amounts of biological data to see if there are any patterns going unnoticed. I hope that this class will prepare me to pursue a possible future career
+in this field.
+
