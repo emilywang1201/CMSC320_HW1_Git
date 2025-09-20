@@ -7,7 +7,7 @@ them and good documentation comments are needed for others to understand the log
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data science could be applied to the service industry to optimize a customer's travel experience. For example, the ratings the customer gives out could be utilized to
+OBAnswer: Data science could be applied to the service industry to optimize a customer's travel experience. For example, the ratings the customer gives out could be utilized to
 better recommend restaurants based on their preferences. The same could be said for hotels, entertainment, and many other things. Data science could also be used in the medicine.
 There are vast amounts of health data on patients with different conditions. This data could be analyzed to assess trends in health that could correspond to a given condition or
 illness. This is actually a field that I am very interested in since I want to go into medicine. I currently work in a cancer research lab and would love to use data analytics and
@@ -21,3 +21,10 @@ together while still preserving each branch's integrity and history. Rebasing co
 changes were made in main rather than in a branch. The pro for rebasing is that it can lead to a cleaner history but it runs the danger of overwriting important changes, which can
 be lost forever unwittingly. Merging is much safer in terms of preserving history, but for more complicated projects with more members, it can be more difficult to follow the 
 project history. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester I'm looking forward to learning new things and working. I currently work as an Intramural Sports Supervisor and it is a job I enjoy a lot. I'd also like
+to start going to the gym and running more. I love to move my body but I just have poor time management so I don't get to exercise as much as I would like. Although I should say
+that I am looking forward to graduation, part of me dreads leaving university since I do love learning so much. However, I do feel excited to see what the future has in store for
+me!
