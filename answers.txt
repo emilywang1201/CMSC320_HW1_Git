@@ -14,3 +14,10 @@ illness. This is actually a field that I am very interested in since I want to g
 science to comb through large amounts of biological data to see if there are any patterns going unnoticed. I hope that this class will prepare me to pursue a possible future career
 in this field.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge and Rebase differ in how they tie together a branch and main. Merge connects the branch and main through a "merge commit", which ties the branch and main history
+together while still preserving each branch's integrity and history. Rebasing combines the branch and main together by sticking the branch history right into main history as if the
+changes were made in main rather than in a branch. The pro for rebasing is that it can lead to a cleaner history but it runs the danger of overwriting important changes, which can
+be lost forever unwittingly. Merging is much safer in terms of preserving history, but for more complicated projects with more members, it can be more difficult to follow the 
+project history. 
